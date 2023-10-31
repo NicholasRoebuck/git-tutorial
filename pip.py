@@ -3,3 +3,5 @@ def pip_hello_nick():
     print("this is version 2")
     print("this is version 3")
 pip_hello_nick()
+
+print("fixed a bug");
